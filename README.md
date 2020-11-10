@@ -1,4 +1,4 @@
-# CS623project
+# CS623project Team6
 ## Schema
 ![schema](https://github.com/marlenehasslinger/cs623team6/blob/main/schema.png?raw=true)
 
